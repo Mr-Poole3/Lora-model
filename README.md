@@ -1,7 +1,7 @@
 <h3>本教程已上传视频教程于哔哩哔哩<br>
 网址：https://www.bilibili.com/video/BV1ah411K7Jp/
 <br>
-# Stable Diffusion模型训练
+<h1>Stable Diffusion模型训练
 
 ## 训练一个属于自己的模型
 
